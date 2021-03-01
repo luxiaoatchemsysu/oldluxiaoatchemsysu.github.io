@@ -1,9 +1,9 @@
 ---
 title: "Atmospheric Chemistry Modeling & Remote Sensing | 大气化学模式与遥感"
-layout: homelay
+layout: archive
 excerpt: "Atmospheric Chemistry Modeling & Remote Sensing Research Group at SUSTech."
+permalink: /people/
 sitemap: false
-permalink: /
 ---
 
 **Welcome to the Atmospheric Chemistry Modeling & Remote Sensing Research Group @ SUSTech**. 
