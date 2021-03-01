@@ -1,13 +1,6 @@
 ---
+permalink: /
 title: "Atmospheric Chemistry and Climate Modeling Group"
-layout: homelay
-excerpt: "Atmospheric Chemistry and Climate Modeling Group at SYSU."
-sitemap: false
-permalink: /
----
----
-permalink: /
-title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
