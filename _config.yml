@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiao Lu Ressearch Group"
+title                    : "Lu Group on Atmospheric chemistry and climate modeling"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -85,10 +85,10 @@ author:
   bio              : "Associate Professor at the School of Atmospheric Sciences, Sun Yat-sen University"
   location         : "Sun Yat-sen University"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=0Ln9cFgAAAAJ&hl=zh-CN&newwindow=1&oi=sra"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Xiao-Lu-5"
+  email            : xiaolu@g.harvard.edu
+  researchgate     : "https://www.researchgate.net/profile/Xiao-Lu-5"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
