@@ -1,8 +1,8 @@
 ---
 permalink: /
 title: "Atmospheric Chemistry and Climate Modeling Group"
-layout: homelay
 excerpt: "About me"
+sitemap: false
 author_profile: true
 ---
 **Welcome to the Atmospheric Chemistry and Climate Modeling Group at School of Atmospheric Sciences, Sun Yat-sen University!**
