@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to Atmospheric Chemistry and Climate Modeling Group at School of Atmospheric Sciences, Sun Yat-sen University!
+Welcome to the Atmospheric Chemistry and Climate Modeling Group at School of Atmospheric Sciences, Sun Yat-sen University!
 
-Our group focus on a wide range topics on atmospheric chemistry and climate modeling, including:
+Our research group will focu on a wide range topics on atmospheric chemistry and climate modeling, including:
  - Source, chemistry, transport, and sink of greenhouse gas and air pollutants
  - Large-scale chemistry-climate interactions
  - Climate-chemistry model development
