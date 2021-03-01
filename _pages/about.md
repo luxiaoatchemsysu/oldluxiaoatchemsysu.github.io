@@ -1,13 +1,20 @@
 ---
+title: "Atmospheric Chemistry and Climate Modeling Group"
+layout: homelay
+excerpt: "Atmospheric Chemistry and Climate Modeling Group at SYSU."
+sitemap: false
 permalink: /
-title: "Welcome"
+---
+---
+permalink: /
+title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Welcome to the Atmospheric Chemistry and Climate Modeling Group at School of Atmospheric Sciences, Sun Yat-sen University!
+**Welcome to the Atmospheric Chemistry and Climate Modeling Group at School of Atmospheric Sciences, Sun Yat-sen University!**
 
 Our research group will focu on a wide range topics on atmospheric chemistry and climate modeling, including:
  - Source, chemistry, transport, and sink of greenhouse gas and air pollutants
